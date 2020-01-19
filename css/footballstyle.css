@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    background-color: #0D47A1;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
