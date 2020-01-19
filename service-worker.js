@@ -7,7 +7,7 @@ if (workbox){
   workbox.precaching.precacheAndRoute([
     "/",
     "/nav.html",
-    "/gofootball.html",
+    "/index.html",
     "/article.html",
     "/pages/home.html",
     "/pages/teams.html",
@@ -110,7 +110,7 @@ self.addEventListener('push', function(event) {
 var urlsToCache = [
   "/",
   "/nav.html",
-  "/gofootball.html",
+  "/index.html",
   "/article.html",
   "/pages/home.html",
   "/pages/teams.html",
